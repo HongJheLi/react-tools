@@ -3,16 +3,15 @@
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet)
 ## 免費圖示 ICON
 > 偏好使用： Font Awesome
-- [Font Awesome](https://fontawesome.com/icons) :thumbsup:
-- [Ionicons](https://ionic.io/ionicons)
-- [Material Design Icons](https://materialdesignicons.com)
+- [Font Awesome](https://fontawesome.com/icons) ![Font Awesome stars](https://badgen.net/github/stars/FortAwesome/Font-Awesome) :thumbsup:
+- [Ionicons](https://ionic.io/ionicons) ![Ionicons stars](https://badgen.net/github/stars/ionic-team/ionicons)
+- [Material Design Icons](https://materialdesignicons.com) ![Material Design Icons stars](https://badgen.net/github/stars/Templarian/MaterialDesign)
 ## 抓取資料 Fetch
 > 偏好使用： SWR → axios → wretch
-- [axios](https://github.com/axios/axios) :thumbsup:
-- [fecha](https://github.com/taylorhakes/fecha)
-- [fetch-retry](https://github.com/jonbern/fetch-retry)
-- [SWR(stale-while-revalidate)](https://swr.vercel.app) :thumbsup:
-- [wretch](https://github.com/elbywan/wretch)
+- [axios](https://github.com/axios/axios) ![axios stars](https://badgen.net/github/stars/axios/axios) :thumbsup:
+- [fetch-retry](https://github.com/jonbern/fetch-retry) ![fetch-retry stars](https://badgen.net/github/stars/jonbern/fetch-retry)
+- [SWR(stale-while-revalidate)](https://swr.vercel.app) ![SWR stars](https://badgen.net/github/stars/vercel/swr) :thumbsup:
+- [wretch](https://github.com/elbywan/wretch) ![wretch stars](https://badgen.net/github/stars/elbywan/wretch)
 ## 狀態管理 State Store
 > 偏好使用： Recoil → zustand
 - [jotai](https://jotai.org)
